@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Карта", "Карта.csproj", "{C4B3C4EF-0F61-4530-98BF-E1C025BB8EA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4B3C4EF-0F61-4530-98BF-E1C025BB8EA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4B3C4EF-0F61-4530-98BF-E1C025BB8EA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4B3C4EF-0F61-4530-98BF-E1C025BB8EA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4B3C4EF-0F61-4530-98BF-E1C025BB8EA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F96E4EF-507B-4639-B8F1-5637418E0D37}
+	EndGlobalSection
+EndGlobal
